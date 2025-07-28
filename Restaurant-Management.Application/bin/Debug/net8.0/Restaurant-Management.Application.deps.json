@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Restaurant-Management.Application/1.0.0": {
+        "dependencies": {
+          "Restaurant-Management.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Restaurant-Management.Application.dll": {}
+        }
+      },
+      "Restaurant-Management.Domain/1.0.0": {
+        "runtime": {
+          "Restaurant-Management.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurant-Management.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurant-Management.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

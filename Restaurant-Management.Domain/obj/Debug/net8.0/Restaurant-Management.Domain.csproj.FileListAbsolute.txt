@@ -1,0 +1,12 @@
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\bin\Debug\net8.0\Restaurant-Management.Domain.deps.json
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\bin\Debug\net8.0\Restaurant-Management.Domain.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\bin\Debug\net8.0\Restaurant-Management.Domain.pdb
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.AssemblyInfoInputs.cache
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.AssemblyInfo.cs
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.sourcelink.json
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\refint\Restaurant-Management.Domain.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\Restaurant-Management.Domain.pdb
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Domain\obj\Debug\net8.0\ref\Restaurant-Management.Domain.dll

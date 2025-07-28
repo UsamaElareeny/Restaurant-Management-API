@@ -1,0 +1,16 @@
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\bin\Debug\net8.0\Restaurant-Management.Application.deps.json
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\bin\Debug\net8.0\Restaurant-Management.Application.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\bin\Debug\net8.0\Restaurant-Management.Application.pdb
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\bin\Debug\net8.0\Restaurant-Management.Domain.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\bin\Debug\net8.0\Restaurant-Management.Domain.pdb
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.csproj.AssemblyReference.cache
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.AssemblyInfoInputs.cache
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.AssemblyInfo.cs
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.sourcelink.json
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaura.6869F085.Up2Date
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\refint\Restaurant-Management.Application.dll
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\Restaurant-Management.Application.pdb
+D:\WorkSpace\Web API Project\Restaurant-Management.API\Restaurant-Management.Application\obj\Debug\net8.0\ref\Restaurant-Management.Application.dll
